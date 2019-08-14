@@ -4,34 +4,16 @@
 三国奇记（论坛）
 
 #### 软件架构
-软件架构说明
+jQuery + yii2 + adminLTE
 
 
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 界面展示
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171755_2d9c7d51_1804453.png "Snipaste_2019-08-14_16-50-30.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171820_b51d008a_1804453.png "Snipaste_2019-08-14_16-52-45.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171834_13ddcfc7_1804453.png "Snipaste_2019-08-14_16-52-23.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171846_0cf6c13d_1804453.png "Snipaste_2019-08-14_16-52-58.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171904_32762109_1804453.png "Snipaste_2019-08-14_16-51-26.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171916_4936a472_1804453.png "Snipaste_2019-08-14_16-52-05.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171935_e1007eef_1804453.png "Snipaste_2019-08-14_16-53-21.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/171953_d59d0d41_1804453.png "Snipaste_2019-08-14_16-53-45.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0814/172002_ee19029c_1804453.png "Snipaste_2019-08-14_16-54-00.png")
