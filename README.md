@@ -1,7 +1,7 @@
 # bbs
 
 #### 介绍
-一个论坛项目
+论坛
 
 #### 软件架构
 jQuery + yii2 + adminLTE
